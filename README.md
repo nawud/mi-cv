@@ -35,13 +35,13 @@
 
 ## 📂 Mis proyectos destacados
 
-### [E-commerce de Funko Pop](https://github.com/nawud/funko-ecommerce)
+### [E-commerce de Funko Pop](https://github.com/nawud/funko_pop.git)
 Plataforma de comercio electrónico desarrollada con **React** y **Spring Boot**, diseñada para la compra y gestión de productos Funko Pop.
 - **Características**: CRUD de productos, integración con APIs externas, diseño adaptado de Figma.
 - **Desafíos superados**: Solución a problemas de visualización de datos en pantalla y optimización de funcionalidades.
-- **Demo**: [Enlace al proyecto](https://github.com/nawud/funko-ecommerce)
+- **Demo**: [Enlace al proyecto](https://github.com/nawud/funko_pop.git)
 
-### [Otro proyecto interesante] (https://github.com/nawud/otro-proyecto)
+### [Otro proyecto interesante](https://github.com/nawud/proyecto-personal.git)
 - Servicios tecnologicos con la estructura de html y diseño css.
 
 ---
